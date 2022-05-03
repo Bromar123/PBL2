@@ -1,0 +1,4 @@
+#!/bin/bash
+mkdir sandbox2
+wget placeholder
+
